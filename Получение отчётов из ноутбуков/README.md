@@ -16,10 +16,10 @@
 *  Я хочу проверить работу данного пакета, поэтому создаваемый файл положу туда же: "C:\Users\lenya\Downloads\Zaburunov Lab1.pdf".
 
 Последовательность команд в cmd:
-'''
+```
 cd c:\
 "Program Files\wkhtmltopdf\bin\wkhtmltopdf" "\Users\lenya\Downloads\Zaburunov Lab1.html" "\Users\lenya\Downloads\Zaburunov Lab1.pdf"
-'''
+```
 ***
 #### Итог
 Можно посмотреть в соответствующей папке репозитория (*Отчёты*)
