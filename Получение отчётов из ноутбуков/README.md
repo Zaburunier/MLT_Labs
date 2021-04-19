@@ -21,11 +21,16 @@ cd c:\
 "Program Files\wkhtmltopdf\bin\wkhtmltopdf" "\Users\lenya\Downloads\Zaburunov Lab1.html" "\Users\lenya\Downloads\Zaburunov Lab1.pdf"
 ```
 
-Никто не мешает забирать или отправлять файлы с других дисков:
+Никто не мешает взаимодействовать с другими дисками:
 ```
 cd c:\
-"Program Files\wkhtmltopdf\bin\wkhtmltopdf" "\Users\lenya\Downloads\Zaburunov Lab1.html" "D:\Study\6_Семестр\ТМО\Отчёты"
+"Program Files\wkhtmltopdf\bin\wkhtmltopdf" "\Users\lenya\Downloads\Zaburunov Lab1.html" "D:\Study\6_Семестр\ТМО\Отчёты\Zaburunov Lab1.pdf"
 ```
+
+Командная строка должна ответить такими сообщениями:
+![image](https://user-images.githubusercontent.com/55232327/115177607-3bb48b00-a0d8-11eb-93d7-d117aaf20196.png)
+
+Все возникавшие у меня ошибки были связаны с неправильным заданием путей до файлов.
 ***
 #### Итог
 Результат конвертации можно увидеть в соответствующей папке репозитория (*Отчёты*)
